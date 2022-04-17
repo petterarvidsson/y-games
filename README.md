@@ -1,2 +1,2 @@
-# z-games
+# y-games
 A home made arcade video game
